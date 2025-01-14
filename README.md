@@ -1,4 +1,5 @@
 # Biblioteka Online
+Nasz projekt na GitHub: https://github.com/Natalli09/Biblioteka-Online/tree/master
 
 Projekt Biblioteka Online to system biblioteczny open-source, który umożliwia użytkownikom przeglądanie, wyszukiwanie i dostęp do cyfrowych zasobów, takich jak książki, dokumenty i materiały edukacyjne. Naszym celem jest stworzenie przyjaznego narzędzia, które może być wykorzystywane przez różne organizacje – szkoły, uczelnie czy indywidualnych użytkowników.
 
@@ -23,7 +24,7 @@ Biblioteka Online to aplikacja webowa stworzona w oparciu o PHP, HTML, CSS, Java
 
 1. Sklonuj repozytorium:
 
-    git clone (https://github.com/Natalli09/Biblioteka-Online)
+    git clone https://github.com/Natalli09/Biblioteka-Online
     cd online-library
 
 2. Skonfiguruj bazę danych:
