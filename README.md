@@ -38,7 +38,7 @@ Biblioteka Online to aplikacja webowa stworzona w oparciu o PHP, HTML, CSS, Java
 
 4. Uruchom aplikację:
     Otwórz przeglądarkę i przejdź pod adres:
-    http://localhost/e-Library-main/
+    http://localhost/Biblioteka-Online-master/
 
 ## Korzystanie z Aplikacji 
 1. Utwórz konto w systemie jako użytkownik biblioteki lub zaloguj się, jeśli już posiadasz konto. 
