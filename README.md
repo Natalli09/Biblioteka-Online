@@ -23,7 +23,7 @@ Biblioteka Online to aplikacja webowa stworzona w oparciu o PHP, HTML, CSS, Java
 
 1. Sklonuj repozytorium:
 
-    git clone https://github.com/Natalli09/Biblioteka_Online
+    git clone (https://github.com/Natalli09/Biblioteka-Online)
     cd online-library
 
 2. Skonfiguruj bazę danych:
